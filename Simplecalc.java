@@ -27,7 +27,8 @@ public class Simplecalc{
         System.out.println(rem);
         System.out.println("The pow of two number is");
         System.out.println(pow);
-         
+        System.out.println("The sqrt of two number is");
+        System.out.println(sqrt);
 
     }
 }
